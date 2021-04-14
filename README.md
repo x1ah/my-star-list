@@ -414,6 +414,7 @@
 
 ## Java 
 
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine.
 - [medcl/elasticsearch-analysis-pinyin](https://github.com/medcl/elasticsearch-analysis-pinyin) - This Pinyin Analysis plugin is used to do conversion between Chinese characters and Pinyin.
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [jvolkman/intellij-protobuf-editor](https://github.com/jvolkman/intellij-protobuf-editor) - Protocol Buffers for IntelliJ-based IDEs
