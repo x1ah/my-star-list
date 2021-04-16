@@ -205,6 +205,7 @@
 
 ## Go 
 
+- [x1ah/gena](https://github.com/x1ah/gena) - 导航网站生成器(Navigation website generator)
 - [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go
 - [yl2chen/cidranger](https://github.com/yl2chen/cidranger) - Fast IP to CIDR lookup in Golang
 - [xiachufang/krakend-ipfilter](https://github.com/xiachufang/krakend-ipfilter) - IP filter middleware for KrakenD framework
@@ -627,6 +628,7 @@
 
 ## Others 
 
+- [x1ah/gena-template](https://github.com/x1ah/gena-template) - 一键生成导航网站(GitHub Template of generating personal navigation site)
 - [LeadroyaL/pdd_3years](https://github.com/LeadroyaL/pdd_3years) - 我在拼多多的三年，以及网站崩溃时候的日志文件
 - [ayuer/shanghai_house_knowledge](https://github.com/ayuer/shanghai_house_knowledge) - 2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
