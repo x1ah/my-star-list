@@ -145,7 +145,6 @@
 - [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [cyanharlow/purecss-francine](https://github.com/cyanharlow/purecss-francine) - HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-- [liangliangyy/DjangoBlog](https://github.com/liangliangyy/DjangoBlog) - 🍺基于Django的博客系统
 - [calidion/ionic.xiv.im](https://github.com/calidion/ionic.xiv.im) - xiv.im的ionic源码
 - [stkevintan/hexo-theme-material-flow](https://github.com/stkevintan/hexo-theme-material-flow) - Yet Another Material-Design-Style Hexo Theme
 - [viewflow/django-material](https://github.com/viewflow/django-material) - Material Design for Django
@@ -205,6 +204,7 @@
 
 ## Go 
 
+- [davecgh/go-spew](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging
 - [x1ah/gena](https://github.com/x1ah/gena) - 导航网站生成器(Navigation website generator)
 - [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go
 - [yl2chen/cidranger](https://github.com/yl2chen/cidranger) - Fast IP to CIDR lookup in Golang
@@ -271,7 +271,7 @@
 - [devopsfaith/krakend](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middlewares
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
-- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [patchbay-pub/patchbay-simple-server](https://github.com/patchbay-pub/patchbay-simple-server) - Intended to serve as a starting point for a self-hostable version of patchbay
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
@@ -912,6 +912,7 @@
 - [python-excel/xlrd](https://github.com/python-excel/xlrd) - Please use openpyxl where you can...
 - [nate-parrott/Flashlight](https://github.com/nate-parrott/Flashlight) - The missing Spotlight plugin system
 - [Ehco1996/django-sspanel](https://github.com/Ehco1996/django-sspanel) - 用diango开发的shadowsocks/V2ray面板
+- [liangliangyy/DjangoBlog](https://github.com/liangliangyy/DjangoBlog) - 🍺基于Django的博客系统
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [schematics/schematics](https://github.com/schematics/schematics) - Python Data Structures for Humans™.
 - [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts) - 🎨 Python Echarts Plotting Library
