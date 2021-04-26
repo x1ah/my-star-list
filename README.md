@@ -206,7 +206,7 @@
 
 - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
 - [davecgh/go-spew](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging
-- [x1ah/gena](https://github.com/x1ah/gena) - 导航网站生成器(Navigation website generator)
+- [x1ah/gena](https://github.com/x1ah/gena) - 导航网站生成器(Start page generator)
 - [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go
 - [yl2chen/cidranger](https://github.com/yl2chen/cidranger) - Fast IP to CIDR lookup in Golang
 - [xiachufang/krakend-ipfilter](https://github.com/xiachufang/krakend-ipfilter) - IP filter middleware for KrakenD framework
@@ -432,7 +432,7 @@
 - [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [ainilili/ratel](https://github.com/ainilili/ratel) - A fighting landlord program that can be played on the command line
-- [DreamOfTheRedChamber/system-design](https://github.com/DreamOfTheRedChamber/system-design) - Preparing for system design interview questions
+- [DreamOfTheRedChamber/system-design](https://github.com/DreamOfTheRedChamber/system-design) - Preparing for system design interview and learn software architecture
 - [apache/dubbo](https://github.com/apache/dubbo) - Apache Dubbo is a high-performance, java based, open source RPC framework.
 - [medcl/elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) - The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
 - [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
@@ -631,7 +631,7 @@
 ## Others 
 
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
-- [x1ah/gena-template](https://github.com/x1ah/gena-template) - 一键生成导航网站(GitHub Template of generating personal navigation site)
+- [x1ah/gena-template](https://github.com/x1ah/gena-template) - 一键生成导航网站(GitHub Template of generating personal start page)
 - [LeadroyaL/pdd_3years](https://github.com/LeadroyaL/pdd_3years) - 我在拼多多的三年，以及网站崩溃时候的日志文件
 - [ayuer/shanghai_house_knowledge](https://github.com/ayuer/shanghai_house_knowledge) - 2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
