@@ -515,7 +515,7 @@
 - [dwyl/learn-travis](https://github.com/dwyl/learn-travis) - :sunglasses: A quick Travis CI (Continuous Integration) Tutorial for Node.js developers
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [vuejs/cn.vuejs.org](https://github.com/vuejs/cn.vuejs.org) - 🇨🇳 Chinese translation for vuejs.org
-- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Create and reorder lists with drag-and-drop. For use with modern browsers and touch devices
+- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery required.
 - [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方
 - [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [gee1k/emoji](https://github.com/gee1k/emoji) - :rocket: Find the emoji(Unicode)
