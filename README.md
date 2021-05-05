@@ -460,6 +460,7 @@
 
 ## JavaScript 
 
+- [qianjiachun/douyuEx](https://github.com/qianjiachun/douyuEx) - 斗鱼骆歆直播间插件 - 油猴脚本
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [wip/app](https://github.com/wip/app) - The WIP GitHub App
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
@@ -531,7 +532,7 @@
 - [patrickmoffitt/python-example](https://github.com/patrickmoffitt/python-example) - How to Build an Electron GUI for a Python Module
 - [clamaa/javascript-dom](https://github.com/clamaa/javascript-dom) - 
 - [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
-- [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac and Linux, connect with PuTTY on Windows
+- [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 - [shuiRong/Eva](https://github.com/shuiRong/Eva) - 🐳🐬Eva : 优雅，简约的完整博客项目 [前后端] (Eva: A concise, simple Blog Project. [FD/BD])  🐋
 - [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
