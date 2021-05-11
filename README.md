@@ -35,6 +35,7 @@
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
+  - [PLpgSQL](#plpgsql)
   - [Perl](#perl)
   - [Python](#python)
   - [Rascal](#rascal)
@@ -482,6 +483,7 @@
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
 - [vasanthv/jsonbox](https://github.com/vasanthv/jsonbox) - A Free HTTP based JSON storage. Now with protected boxes.
+- [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
 - [leanflutter/flutter-widget-livebook](https://github.com/leanflutter/flutter-widget-livebook) - Live preview example for flutter widgets.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
@@ -727,6 +729,10 @@
 - [wensonsmith/YoudaoTranslate](https://github.com/wensonsmith/YoudaoTranslate) - Alfred Youdao Translate Workflow
 - [hanc00l/wooyun_public](https://github.com/hanc00l/wooyun_public) - This repo is archived. Thanks for wooyun!  乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops
 - [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
+
+## PLpgSQL 
+
+- [aneasystone/mysql-deadlocks](https://github.com/aneasystone/mysql-deadlocks) - 收集一些常见的 MySQL 死锁案例
 
 ## Perl 
 
@@ -1134,7 +1140,6 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [alex000kim/nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
-- [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
 - [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
 - [wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial) - Bash 教程
 - [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实践手册 -  https://jimmysong.io/kubernetes-handbook
@@ -1180,6 +1185,8 @@
 
 ## TypeScript 
 
+- [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ 云空调，便携小空调，为你的夏日带去清凉！
+- [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Public Beta 🎉)
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
