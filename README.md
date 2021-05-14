@@ -206,6 +206,7 @@
 
 ## Go 
 
+- [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [medcl/esm](https://github.com/medcl/esm) - An Elasticsearch Migration Tool.
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
@@ -396,6 +397,7 @@
 
 ## HTML 
 
+- [xiachufang/xiachufang.github.io](https://github.com/xiachufang/xiachufang.github.io) - K1tchen - Xiachufang Engineering Blog
 - [cadejscroggins/tilde](https://github.com/cadejscroggins/tilde) - Minimal browser startpage.
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [riggraz/no-style-please](https://github.com/riggraz/no-style-please) - A (nearly) no-CSS, fast, minimalist Jekyll theme.
