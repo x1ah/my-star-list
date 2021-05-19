@@ -207,6 +207,7 @@
 
 ## Go 
 
+- [xiachufang/actions-feishu](https://github.com/xiachufang/actions-feishu) - GitHub Actions for Feishu
 - [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
 - [hellofresh/health-go](https://github.com/hellofresh/health-go) - Library to provide basic healthcheck functionality to Go applications.
 - [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
@@ -643,6 +644,7 @@
 
 ## Others 
 
+- [faster-cpython/ideas](https://github.com/faster-cpython/ideas) - 
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [x1ah/gena-template](https://github.com/x1ah/gena-template) - 一键生成导航网站(GitHub Template of generating personal start page)
 - [LeadroyaL/pdd_3years](https://github.com/LeadroyaL/pdd_3years) - 我在拼多多的三年，以及网站崩溃时候的日志文件
