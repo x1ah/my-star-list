@@ -647,7 +647,7 @@
 - [faster-cpython/ideas](https://github.com/faster-cpython/ideas) - 
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [x1ah/gena-template](https://github.com/x1ah/gena-template) - 一键生成导航网站(GitHub Template of generating personal start page)
-- [LeadroyaL/pdd_3years](https://github.com/LeadroyaL/pdd_3years) - 我在拼多多的三年，以及网站崩溃时候的日志文件
+- [LeadroyaL/pdd_3years](https://github.com/LeadroyaL/pdd_3years) - 
 - [ayuer/shanghai_house_knowledge](https://github.com/ayuer/shanghai_house_knowledge) - 2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language. Join Kotlin release event: https://kotl.in/15-event
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
@@ -1073,6 +1073,7 @@
 
 ## Ruby 
 
+- [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [in3rsha/sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
 - [greatghoul/remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料
