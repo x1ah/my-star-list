@@ -212,6 +212,7 @@
 
 ## Go 
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [xiachufang/actions-feishu](https://github.com/xiachufang/actions-feishu) - GitHub Actions for Feishu
 - [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
@@ -450,7 +451,7 @@
 - [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [ainilili/ratel](https://github.com/ainilili/ratel) - A fighting landlord program that can be played on the command line
-- [DreamOfTheRedChamber/system-design-interviews](https://github.com/DreamOfTheRedChamber/system-design-interviews) - Learn about software architecture and intermediate level system design interview tutorials
+- [DreamOfTheRedChamber/system-design-interviews](https://github.com/DreamOfTheRedChamber/system-design-interviews) - intermediate level system design tutorial
 - [apache/dubbo](https://github.com/apache/dubbo) - Apache Dubbo is a high-performance, java based, open source RPC framework.
 - [medcl/elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) - The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
 - [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
@@ -794,6 +795,7 @@
 - [laixintao/pingtop](https://github.com/laixintao/pingtop) - 🏓Ping multiple servers and show results in a top-like terminal UI.
 - [evilham/weneeda.name](https://github.com/evilham/weneeda.name) - 
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
+- [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
 - [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist REST and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types
 - [dropbox/pyannotate](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations
@@ -1111,7 +1113,6 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
-- [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
 - [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
