@@ -501,7 +501,7 @@
 - [leanflutter/flutter-widget-livebook](https://github.com/leanflutter/flutter-widget-livebook) - Live preview example for flutter widgets.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
-- [facebook/planout](https://github.com/facebook/planout) - PlanOut is a library and interpreter for designing online experiments.
+- [facebookarchive/planout](https://github.com/facebookarchive/planout) - PlanOut is a library and interpreter for designing online experiments.
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
 - [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
