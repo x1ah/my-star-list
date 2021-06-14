@@ -1043,7 +1043,7 @@
 - [python-hyper/hyper](https://github.com/python-hyper/hyper) - HTTP/2 for Python.
 - [billryan/algorithm-exercise](https://github.com/billryan/algorithm-exercise) - Data Structure and Algorithm notes. 数据结构与算法/leetcode/lintcode题解/
 - [xqin/SmartQQ-for-Raspberry-Pi](https://github.com/xqin/SmartQQ-for-Raspberry-Pi) - 基于 SmartQQ 编写, 采用QQ安全中心的二维码做为登陆条件 的WebQQ客户端
-- [WhaleShark-Team/cobra](https://github.com/WhaleShark-Team/cobra) - Source Code Security Audit (源代码安全审计)
+- [FeeiCN/Cobra](https://github.com/FeeiCN/Cobra) - Source Code Security Audit (源代码安全审计)
 - [mnooner256/pyqrcode](https://github.com/mnooner256/pyqrcode) - Python 3 module to generate QR Codes
 - [liuwons/wxBot](https://github.com/liuwons/wxBot) - Python网页微信API
 - [livid/v2ex-gae](https://github.com/livid/v2ex-gae) - Legacy code of V2EX running on Google App Engine
