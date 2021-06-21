@@ -213,6 +213,8 @@
 
 ## Go 
 
+- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [golang-design/under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | https://golang.design/under-the-hood
