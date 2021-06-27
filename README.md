@@ -213,6 +213,7 @@
 
 ## Go 
 
+- [8treenet/cdp-service](https://github.com/8treenet/cdp-service) - cdp数据平台，帮助企业充分了解客户，实现千人千面的精准营销。
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
@@ -1191,6 +1192,7 @@
 
 ## Swift 
 
+- [yichengchen/clashX](https://github.com/yichengchen/clashX) - 
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
