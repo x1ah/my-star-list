@@ -213,6 +213,7 @@
 
 ## Go 
 
+- [cloudwego/kitex](https://github.com/cloudwego/kitex) - 
 - [8treenet/cdp-service](https://github.com/8treenet/cdp-service) - cdp数据平台，帮助企业充分了解客户，实现千人千面的精准营销。
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
@@ -347,7 +348,7 @@
 - [davecheney/gophercon2018-performance-tuning-workshop](https://github.com/davecheney/gophercon2018-performance-tuning-workshop) - GopherCon 2018 Performance Tuning Workshop
 - [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [sipt/shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.
-- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a standalone framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
