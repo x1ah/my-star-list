@@ -448,6 +448,7 @@
 
 ## Java 
 
+- [apache/rocketmq](https://github.com/apache/rocketmq) - Mirror of Apache RocketMQ
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine.
 - [medcl/elasticsearch-analysis-pinyin](https://github.com/medcl/elasticsearch-analysis-pinyin) - This Pinyin Analysis plugin is used to do conversion between Chinese characters and Pinyin.
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
@@ -1153,6 +1154,7 @@
 
 ## Shell 
 
+- [apache/rocketmq-docker](https://github.com/apache/rocketmq-docker) - Apache RocketMQ Docker
 - [getsentry/onpremise](https://github.com/getsentry/onpremise) - Sentry On-Premise setup
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
