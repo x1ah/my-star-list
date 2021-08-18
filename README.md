@@ -222,6 +222,7 @@
 
 ## Go 
 
+- [KendoCross/kendoDDD](https://github.com/KendoCross/kendoDDD) - 基于Golang的DDD实践
 - [bytedance/gopkg](https://github.com/bytedance/gopkg) - Universal Utilities for Go
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [bosun-monitor/bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework
