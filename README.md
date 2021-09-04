@@ -1221,6 +1221,7 @@
 
 ## TypeScript 
 
+- [ottypes/text-unicode](https://github.com/ottypes/text-unicode) - Unicode text OT implementation
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ 云空调，便携小空调，为你的夏日带去清凉！
 - [PuruVJ/macos-preact](https://github.com/PuruVJ/macos-preact) - 
