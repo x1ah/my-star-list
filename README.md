@@ -671,6 +671,7 @@
 
 ## Others 
 
+- [i0Ek3/work-and-life-in-system](https://github.com/i0Ek3/work-and-life-in-system) - 程序员在体制内的工作和生活是怎样的？
 - [devopsfaith/krakend-contrib](https://github.com/devopsfaith/krakend-contrib) - A list of awesome modules and adaptors for the KrakenD framework.
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
 - [faster-cpython/ideas](https://github.com/faster-cpython/ideas) - 
@@ -881,7 +882,7 @@
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - Better dates & times for Python
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [sh4nks/flask-caching](https://github.com/sh4nks/flask-caching) - A caching extension for Flask
+- [pallets-eco/flask-caching](https://github.com/pallets-eco/flask-caching) - A caching extension for Flask
 - [miki725/importanize](https://github.com/miki725/importanize) - Utility for organizing Python imports using PEP8 or custom rules
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
 - [lmacken/pyrasite](https://github.com/lmacken/pyrasite) - Inject code into running Python processes
