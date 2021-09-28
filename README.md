@@ -1168,6 +1168,7 @@
 
 ## Shell 
 
+- [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
 - [dnephin/pre-commit-golang](https://github.com/dnephin/pre-commit-golang) - Golang hooks for pre-commit
 - [apache/rocketmq-docker](https://github.com/apache/rocketmq-docker) - Apache RocketMQ Docker
 - [getsentry/onpremise](https://github.com/getsentry/onpremise) - Sentry On-Premise setup
