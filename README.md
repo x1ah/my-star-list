@@ -196,7 +196,7 @@
 - [onlynight/v2ex_flutter_demo](https://github.com/onlynight/v2ex_flutter_demo) - v2ex flutter demo. Use the flutter to create v2ex apps. You will find new way to create mobile apps.
 - [onlyloveyd/FlutterGank](https://github.com/onlyloveyd/FlutterGank) - Gank.io Flutter版本
 - [ice1000/code_wars_android](https://github.com/ice1000/code_wars_android) - :computer: A mobile client for CodeWars
-- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Dockerfile 
 
