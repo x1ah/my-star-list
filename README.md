@@ -266,7 +266,7 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [go-gomail/gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go.
-- [tidwall/uhaha](https://github.com/tidwall/uhaha) - High Availability Framework for Happy Data
+- [tidwall/uhaha](https://github.com/tidwall/uhaha) - High Availability Raft Framework for Go
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit
