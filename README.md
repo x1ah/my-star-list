@@ -551,7 +551,7 @@
 - [jaredreich/pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [ottomao/bugfreejs](https://github.com/ottomao/bugfreejs) - 佛祖保佑，永无bug
-- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [YCF/Christy_gift](https://github.com/YCF/Christy_gift) - 这个是我2013年送出的情人节礼物，祝各位有情人终成眷属。(地图贴图加载速度我解决不了，我当时是录在手机里的，以防万一，我只能帮到这了。)Demo:
 - [andrecp/django-tutorial-docker-nginx-postgres](https://github.com/andrecp/django-tutorial-docker-nginx-postgres) - Django tutorial running with Nginx, Gunicorn, PostgreSQL and docker-compose
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
