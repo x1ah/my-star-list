@@ -223,6 +223,7 @@
 
 ## Go 
 
+- [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [opentracing/opentracing-go](https://github.com/opentracing/opentracing-go) - OpenTracing API for Go
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
@@ -509,6 +510,7 @@
 
 ## JavaScript 
 
+- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [qianjiachun/douyuEx](https://github.com/qianjiachun/douyuEx) - 斗鱼骆歆直播间插件 - 油猴脚本
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
@@ -682,6 +684,7 @@
 
 ## Others 
 
+- [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [i0Ek3/work-and-life-in-system](https://github.com/i0Ek3/work-and-life-in-system) - 程序员在体制内的工作和生活是怎样的？
 - [devopsfaith/krakend-contrib](https://github.com/devopsfaith/krakend-contrib) - A list of awesome modules and adaptors for the KrakenD framework.
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
