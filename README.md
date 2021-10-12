@@ -41,7 +41,6 @@
   - [Perl](#perl)
   - [Python](#python)
   - [Rascal](#rascal)
-  - [Rich Text Format](#rich-text-format)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
@@ -709,6 +708,7 @@
 - [Magiccwl/blog](https://github.com/Magiccwl/blog) - My personal blog
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [gopherchina/conference](https://github.com/gopherchina/conference) - 
+- [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
 - [ccyyycy/ycy](https://github.com/ccyyycy/ycy) - "Hello YCY" Programming Competition
 - [Micropoor/Micro8](https://github.com/Micropoor/Micro8) - Gitbook
 - [aylei/interview](https://github.com/aylei/interview) - 写在19年初的后端社招面试经历🤑
@@ -1103,10 +1103,6 @@
 ## Rascal 
 
 - [kelthuzadx/hosts](https://github.com/kelthuzadx/hosts) - :statue_of_liberty:最新可用的google hosts文件。国内镜像：
-
-## Rich Text Format 
-
-- [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
 
 ## Ruby 
 
