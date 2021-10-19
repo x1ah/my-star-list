@@ -457,7 +457,7 @@
 - [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
 - [biezhi/java-bible](https://github.com/biezhi/java-bible) - :banana: 我的技术摘要
 - [wangshunping/Testing_Python](https://github.com/wangshunping/Testing_Python) - 《Python Testing》翻译
-- [alice314272/pythonzh.cn](https://github.com/alice314272/pythonzh.cn) - 为 Python 交流学习搭建的社区，使用 django1.10 和 Python3.5 强力驱动。
+- [jukanntenn/pythonzh.cn](https://github.com/jukanntenn/pythonzh.cn) - 为 Python 交流学习搭建的社区，使用 django1.10 和 Python3.5 强力驱动。
 - [raytaylorlin/hexo-theme-raytaylorism](https://github.com/raytaylorlin/hexo-theme-raytaylorism) - 一款Material Design风格的hexo主题
 - [gvanrossum/gvanrossum.github.io](https://github.com/gvanrossum/gvanrossum.github.io) - BDFL website
 - [HT524/500LineorLess_CN](https://github.com/HT524/500LineorLess_CN) - 500 line or less 中文翻译计划。
@@ -470,7 +470,7 @@
 - [seata/seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [dianping/cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 - [apache/rocketmq](https://github.com/apache/rocketmq) - Mirror of Apache RocketMQ
-- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine.
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [medcl/elasticsearch-analysis-pinyin](https://github.com/medcl/elasticsearch-analysis-pinyin) - This Pinyin Analysis plugin is used to do conversion between Chinese characters and Pinyin.
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [jvolkman/intellij-protobuf-editor](https://github.com/jvolkman/intellij-protobuf-editor) - Protocol Buffers for IntelliJ-based IDEs
