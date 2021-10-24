@@ -795,6 +795,7 @@
 
 ## Python 
 
+- [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Elasticsearch client library for Python
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [srcrs/UnicomTask](https://github.com/srcrs/UnicomTask) - 联通手机营业厅自动做任务、签到、领流量、领积分等。
 - [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
