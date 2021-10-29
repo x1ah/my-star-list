@@ -222,6 +222,7 @@
 
 ## Go 
 
+- [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
 - [go-playground/pool](https://github.com/go-playground/pool) - :speedboat: a limited consumer goroutine or unlimited goroutine pool for easier goroutine handling and cancellation
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
@@ -346,7 +347,7 @@
 - [elliotchance/pie](https://github.com/elliotchance/pie) - 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.
 - [kardianos/govendor](https://github.com/kardianos/govendor) - Use Go Modules.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
-- [go-kratos/kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices.
+- [go-kratos/kratos](https://github.com/go-kratos/kratos) - A modular-designed and easy-to-use microservices framework in Go.
 - [openbilibili/go-common](https://github.com/openbilibili/go-common) - 哔哩哔哩 bilibili 网站后台工程 源码
 - [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 - [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
