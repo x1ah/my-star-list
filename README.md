@@ -222,6 +222,7 @@
 
 ## Go 
 
+- [alicebob/miniredis](https://github.com/alicebob/miniredis) - Pure Go Redis server for Go unittests
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
 - [go-playground/pool](https://github.com/go-playground/pool) - :speedboat: a limited consumer goroutine or unlimited goroutine pool for easier goroutine handling and cancellation
