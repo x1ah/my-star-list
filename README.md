@@ -1041,7 +1041,7 @@
 - [hack4impact/flask-base](https://github.com/hack4impact/flask-base) - A simple Flask boilerplate app with SQLAlchemy, Redis, User Authentication, and more.
 - [lcdevelop/ChatBotCourse](https://github.com/lcdevelop/ChatBotCourse) - 自己动手做聊天机器人教程
 - [pyk/hsr](https://github.com/pyk/hsr) - Hand signals recognition using Convolutional Neural Network implemented in TensorFlow
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [ethan-funny/explore-python](https://github.com/ethan-funny/explore-python) - :green_book: The Beauty of Python Programming.
 - [InCodeLearning/InCodeLearning-Python3](https://github.com/InCodeLearning/InCodeLearning-Python3) - core python, basic python
 - [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
