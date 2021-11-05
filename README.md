@@ -911,7 +911,7 @@
 - [lmacken/pyrasite](https://github.com/lmacken/pyrasite) - Inject code into running Python processes
 - [isagalaev/ijson](https://github.com/isagalaev/ijson) - Iterative JSON parser with Pythonic interface
 - [ptpb/pb](https://github.com/ptpb/pb) - pb is a formerly-lightweight pastebin and url shortener
-- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python 3 and 2 (PEP 484)
+- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [imWildCat/scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™ (Maintainer needed)
 - [Robpol86/Flask-Large-Application-Example](https://github.com/Robpol86/Flask-Large-Application-Example) - This is how I structure my large Flask applications.
 - [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
