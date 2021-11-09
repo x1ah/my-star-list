@@ -223,6 +223,7 @@
 
 ## Go 
 
+- [ahmetb/go-linq](https://github.com/ahmetb/go-linq) - .NET LINQ capabilities in Go
 - [tidwall/sjson](https://github.com/tidwall/sjson) - Set JSON values very quickly in Go
 - [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) - Datadog Agent
 - [alicebob/miniredis](https://github.com/alicebob/miniredis) - Pure Go Redis server for Go unittests
@@ -455,6 +456,7 @@
 - [mixu/distsysbook](https://github.com/mixu/distsysbook) - The book Distributed systems: for fun and profit
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
+- [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io) - Jekyll Themes / GitHub Pages 博客模板 / A template repository for Jekyll based blog
 - [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
@@ -518,7 +520,7 @@
 - [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
-- [qianjiachun/douyuEx](https://github.com/qianjiachun/douyuEx) - 斗鱼骆歆直播间插件 - 油猴脚本
+- [qianjiachun/douyuEx](https://github.com/qianjiachun/douyuEx) - 斗鱼直播间增强插件（Tampermonkey）
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [wip/app](https://github.com/wip/app) - The WIP GitHub App
 - [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop) - an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
@@ -681,7 +683,7 @@
 - [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
 - [eczarny/spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
 - [AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful networking framework for iOS, macOS, watchOS, and tvOS.
-- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开
 - [TKkk-iOSer/QQPlugin-macOS](https://github.com/TKkk-iOSer/QQPlugin-macOS) - 
 - [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, …
@@ -1267,7 +1269,6 @@
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [alibaba/ice](https://github.com/alibaba/ice) - 🚀 The Progressive Framework Based On React（基于 React 的渐进式研发框架）
-- [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [antvis/G2](https://github.com/antvis/G2) - 📊 A highly interactive data-driven visualization grammar for statistical charts.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [yuche/gouqi](https://github.com/yuche/gouqi) - 🐸 枸杞 - 伪装成音乐客户端的计时 App
