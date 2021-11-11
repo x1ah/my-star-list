@@ -223,6 +223,7 @@
 
 ## Go 
 
+- [alitto/pond](https://github.com/alitto/pond) - 🔘 Minimalistic and High-performance goroutine worker pool written in Go
 - [ahmetb/go-linq](https://github.com/ahmetb/go-linq) - .NET LINQ capabilities in Go
 - [tidwall/sjson](https://github.com/tidwall/sjson) - Set JSON values very quickly in Go
 - [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) - Datadog Agent
@@ -445,6 +446,7 @@
 
 ## HTML 
 
+- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [xiachufang/xiachufang.github.io](https://github.com/xiachufang/xiachufang.github.io) - K1tchen - Xiachufang Engineering Blog
 - [cadejscroggins/tilde](https://github.com/cadejscroggins/tilde) - Minimal browser startpage.
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
