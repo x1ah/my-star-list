@@ -223,6 +223,7 @@
 
 ## Go 
 
+- [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
 - [alitto/pond](https://github.com/alitto/pond) - 🔘 Minimalistic and High-performance goroutine worker pool written in Go
 - [ahmetb/go-linq](https://github.com/ahmetb/go-linq) - .NET LINQ capabilities in Go
 - [tidwall/sjson](https://github.com/tidwall/sjson) - Set JSON values very quickly in Go
