@@ -602,6 +602,7 @@
 - [alsotang/node-lessons](https://github.com/alsotang/node-lessons) - :closed_book:《Node.js 包教不包会》 by alsotang
 - [idevelop/ascii-camera](https://github.com/idevelop/ascii-camera) - Real-time ASCII representation of your webcam video stream, using the getUserMedia API.
 - [ecmadao/hacknical](https://github.com/ecmadao/hacknical) - Hacknical, hacker & technical. A website for GitHub user to make a better resume.
+- [wensonsmith/YoudaoTranslate](https://github.com/wensonsmith/YoudaoTranslate) - Alfred Youdao Translate Workflow
 - [jaredly/hexo-admin](https://github.com/jaredly/hexo-admin) - An Admin Interface for Hexo
 - [aTool-org/json-format](https://github.com/aTool-org/json-format) - JSON 格式化 Chrome 插件，精简自 FeHelper 。
 - [sciooga/v2ex-plus](https://github.com/sciooga/v2ex-plus) - 可能是 v2ex 最好用的扩展
@@ -792,7 +793,6 @@
 - [fecshop/yii2_fecshop](https://github.com/fecshop/yii2_fecshop) - yii2 ( PHP ) fecmall（fecshop） core code used for ecommerce shop 多语言多货币多入口的开源电商 B2C 商城，支持移动端vue, app, html5，微信小程序微店，微信小程序商城等
 - [ZhuFaner/shadowsocks-manage-system](https://github.com/ZhuFaner/shadowsocks-manage-system) - 科学上网管理系统
 - [chakhsu/pinghsu](https://github.com/chakhsu/pinghsu) - Pinghsu,  A Typecho Theme
-- [wensonsmith/YoudaoTranslate](https://github.com/wensonsmith/YoudaoTranslate) - Alfred Youdao Translate Workflow
 - [hanc00l/wooyun_public](https://github.com/hanc00l/wooyun_public) - This repo is archived. Thanks for wooyun!  乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops
 - [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 
