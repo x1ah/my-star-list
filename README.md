@@ -478,6 +478,7 @@
 
 ## Java 
 
+- [alibaba/COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented & Layered Architecture
 - [seata/seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [dianping/cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 - [apache/rocketmq](https://github.com/apache/rocketmq) - Mirror of Apache RocketMQ
@@ -602,7 +603,7 @@
 - [alsotang/node-lessons](https://github.com/alsotang/node-lessons) - :closed_book:《Node.js 包教不包会》 by alsotang
 - [idevelop/ascii-camera](https://github.com/idevelop/ascii-camera) - Real-time ASCII representation of your webcam video stream, using the getUserMedia API.
 - [ecmadao/hacknical](https://github.com/ecmadao/hacknical) - Hacknical, hacker & technical. A website for GitHub user to make a better resume.
-- [wensonsmith/YoudaoTranslate](https://github.com/wensonsmith/YoudaoTranslate) - Alfred Youdao Translate Workflow
+- [wensonsmith/YoudaoTranslator](https://github.com/wensonsmith/YoudaoTranslator) - Alfred Youdao Translate Workflow
 - [jaredly/hexo-admin](https://github.com/jaredly/hexo-admin) - An Admin Interface for Hexo
 - [aTool-org/json-format](https://github.com/aTool-org/json-format) - JSON 格式化 Chrome 插件，精简自 FeHelper 。
 - [sciooga/v2ex-plus](https://github.com/sciooga/v2ex-plus) - 可能是 v2ex 最好用的扩展
@@ -807,6 +808,7 @@
 
 ## Python 
 
+- [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [ClassmateLin/scripts](https://github.com/ClassmateLin/scripts) - jd
 - [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Elasticsearch client library for Python
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
