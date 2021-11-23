@@ -223,6 +223,7 @@
 
 ## Go 
 
+- [rpcxio/protoc-gen-rpcx](https://github.com/rpcxio/protoc-gen-rpcx) - protoc插件， 可以生成rpcx客户端和服务端代码
 - [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
 - [alitto/pond](https://github.com/alitto/pond) - 🔘 Minimalistic and High-performance goroutine worker pool written in Go
 - [ahmetb/go-linq](https://github.com/ahmetb/go-linq) - .NET LINQ capabilities in Go
@@ -1192,7 +1193,7 @@
 - [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
 - [dnephin/pre-commit-golang](https://github.com/dnephin/pre-commit-golang) - Golang hooks for pre-commit
 - [apache/rocketmq-docker](https://github.com/apache/rocketmq-docker) - Apache RocketMQ Docker
-- [getsentry/onpremise](https://github.com/getsentry/onpremise) - Sentry On-Premise setup
+- [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept 👍
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
