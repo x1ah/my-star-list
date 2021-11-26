@@ -467,7 +467,7 @@
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [yuan1994/wechat_web_devtools](https://github.com/yuan1994/wechat_web_devtools) - 微信开发者工具（wechat_web_devtools）Linux版，微信小程序Linux版，支持最新微信小程序开发和微信网页开发
 - [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
-- [biezhi/java-bible](https://github.com/biezhi/java-bible) - :banana: 我的技术摘要
+- [hellokaton/java-bible](https://github.com/hellokaton/java-bible) - :banana: 我的技术摘要
 - [wangshunping/Testing_Python](https://github.com/wangshunping/Testing_Python) - 《Python Testing》翻译
 - [jukanntenn/pythonzh.cn](https://github.com/jukanntenn/pythonzh.cn) - 为 Python 交流学习搭建的社区，使用 django1.10 和 Python3.5 强力驱动。
 - [raytaylorlin/hexo-theme-raytaylorism](https://github.com/raytaylorlin/hexo-theme-raytaylorism) - 一款Material Design风格的hexo主题
