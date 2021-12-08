@@ -76,7 +76,6 @@
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [rigtorp/ipc-bench](https://github.com/rigtorp/ipc-bench) - Latency benchmarks of Unix IPC mechanisms
 - [tass-belgium/picotcp](https://github.com/tass-belgium/picotcp) - PicoTCP is a free TCP/IP stack implementation
 - [saminiir/level-ip](https://github.com/saminiir/level-ip) - A hacker's userspace TCP/IP stack
@@ -294,6 +293,7 @@
 - [lnquy/cron](https://github.com/lnquy/cron) - CLI tool (hcron) and Go library (cron) to convert CRON expression into human readable description.
 - [x1ah/alfred-cron](https://github.com/x1ah/alfred-cron) - Alfred workflow for parse crontab expression
 - [golang-design/Go-Questions](https://github.com/golang-design/Go-Questions) - 📖 从问题切入，串连  Go 语言相关的所有知识，融会贯通。 https://golang.design/go-questions
+- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
@@ -519,7 +519,7 @@
 - [hefuyicoder/ListenerMusicPlayer](https://github.com/hefuyicoder/ListenerMusicPlayer) - A Grace Material Design Music Player
 - [zgqq/mah](https://github.com/zgqq/mah) - An alternative to alfred written in java
 - [justinbaby/seckill-demo](https://github.com/justinbaby/seckill-demo) - 一个简单的SSM框架的商品秒杀系统:unicorn:
-- [daniulive/SmarterStreaming](https://github.com/daniulive/SmarterStreaming) - 业内为数不多致力于极致体验的超强全自研跨平台(windows/android/iOS)流媒体内核，通过模块化自由组合，支持实时RTMP推流、RTSP推流、RTMP播放器、RTSP播放器、录像、多路流媒体转发、音视频导播、动态视频合成、音频混音、直播互动、内置轻量级RTSP服务等，比快更快，业界真正靠谱的超低延迟直播SDK(1秒内，低延迟模式下200~400ms)。
+- [daniulive/SmarterStreaming](https://github.com/daniulive/SmarterStreaming) - 业内为数不多致力于极致体验的超强全自研跨平台(windows/linux/android/iOS)流媒体内核，通过模块化自由组合，支持实时RTMP推流、RTSP推流、RTMP播放器、RTSP播放器、录像、多路流媒体转发、音视频导播、动态视频合成、音频混音、直播互动、内置轻量级RTSP服务等，比快更快，业界真正靠谱的超低延迟直播SDK(1秒内，低延迟模式下200~400ms)。
 - [tomoya92/pybbs](https://github.com/tomoya92/pybbs) - 更实用的Java开发的社区(论坛)，Better use of Java development community (forum)
 
 ## JavaScript 
@@ -956,7 +956,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [cshuaimin/video-funnel](https://github.com/cshuaimin/video-funnel) - 让你在线看视频也能达到多线程下载的速度
 - [kamyu104/LeetCode](https://github.com/kamyu104/LeetCode) - :pencil: Python / C++ 11 Solutions of All LeetCode Questions
-- [Robpol86/terminaltables](https://github.com/Robpol86/terminaltables) - Generate simple tables in terminals from a nested list of strings.
+- [Robpol86/terminaltables](https://github.com/Robpol86/terminaltables) - Project no longer maintained.
 - [Bogdanp/dramatiq](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 - [alfredfrancis/ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - A python chatbot framework with Natural Language Understanding and Artificial Intelligence.
 - [xhades/rates_classify](https://github.com/xhades/rates_classify) - 当当热销书评分类算法实践
