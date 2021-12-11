@@ -222,6 +222,7 @@
 
 ## Go 
 
+- [go-gorm/gen](https://github.com/go-gorm/gen) - Gen:  Friendly & Safer GORM powered by Code Generation
 - [tidwall/wal](https://github.com/tidwall/wal) - Write ahead log for Go.
 - [rpcxio/protoc-gen-rpcx](https://github.com/rpcxio/protoc-gen-rpcx) - protoc插件， 可以生成rpcx客户端和服务端代码
 - [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
