@@ -384,7 +384,7 @@
 - [davecheney/gophercon2018-performance-tuning-workshop](https://github.com/davecheney/gophercon2018-performance-tuning-workshop) - GopherCon 2018 Performance Tuning Workshop
 - [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [sipt/shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.
-- [asim/go-micro](https://github.com/asim/go-micro) - A pluggable Go framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - A framework for distributed systems development
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
@@ -484,6 +484,7 @@
 
 ## Java 
 
+- [fkorotkov/intellij-thrift](https://github.com/fkorotkov/intellij-thrift) - 
 - [alibaba/COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented & Layered Architecture
 - [seata/seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [dianping/cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
