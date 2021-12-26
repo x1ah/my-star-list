@@ -920,7 +920,7 @@
 - [Toblerity/rtree](https://github.com/Toblerity/rtree) - Rtree: spatial index for Python GIS ¶
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
-- [arrow-py/arrow](https://github.com/arrow-py/arrow) - Better dates & times for Python
+- [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [pallets-eco/flask-caching](https://github.com/pallets-eco/flask-caching) - A caching extension for Flask
