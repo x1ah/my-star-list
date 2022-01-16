@@ -888,7 +888,7 @@
 - [pgjones/quart](https://github.com/pgjones/quart) - Official mirror of https://gitlab.com/pgjones/quart
 - [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [asottile/future-fstrings](https://github.com/asottile/future-fstrings) - A backport of fstrings to python&lt;3.6
+- [asottile-archive/future-fstrings](https://github.com/asottile-archive/future-fstrings) - A backport of fstrings to python&lt;3.6
 - [PythonCharmers/python-future](https://github.com/PythonCharmers/python-future) - Easy, clean, reliable Python 2/3 compatibility
 - [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
 - [Kozea/pygal](https://github.com/Kozea/pygal) - PYthon svg GrAph plotting Library
