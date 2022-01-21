@@ -240,7 +240,7 @@
 - [go-playground/pool](https://github.com/go-playground/pool) - :speedboat: a limited consumer goroutine or unlimited goroutine pool for easier goroutine handling and cancellation
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [opentracing/opentracing-go](https://github.com/opentracing/opentracing-go) - OpenTracing API for Go
+- [opentracing/opentracing-go](https://github.com/opentracing/opentracing-go) - OpenTracing API for Go. 🛑 This library is DEPRECATED!
 - [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
@@ -1245,7 +1245,7 @@
 ## Standard ML 
 
 - [binghe/HOL](https://github.com/binghe/HOL) - Forked sources for HOL4 theorem-proving system (for sending PRs)
-- [HOL-Theorem-Prover/HOL](https://github.com/HOL-Theorem-Prover/HOL) - Canonical sources for HOL4 theorem-proving system.   Branch `develop` is where “mainline development” occurs; when `develop` passes our regression tests, `master` is merged forward to catch up.
+- [HOL-Theorem-Prover/HOL](https://github.com/HOL-Theorem-Prover/HOL) - Canonical sources for HOL4 theorem-proving system.   Branch develop is where “mainline development” occurs; when develop passes our regression tests, master is merged forward to catch up.
 
 ## Swift 
 
