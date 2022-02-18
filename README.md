@@ -820,6 +820,7 @@
 
 ## Python 
 
+- [getsentry/sentry-python](https://github.com/getsentry/sentry-python) - The official Python SDK for Sentry.io
 - [joshiemoore/snakeware](https://github.com/joshiemoore/snakeware) - A free Linux distro with a Python-based userspace
 - [eisenxp/macos-golink-wrapper](https://github.com/eisenxp/macos-golink-wrapper) - solution to "syscall.Mprotect panic: permission denied" on macOS Catalina 10.15.x
 - [msgpack/msgpack-python](https://github.com/msgpack/msgpack-python) - MessagePack serializer implementation for Python msgpack.org[Python]
