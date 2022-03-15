@@ -937,7 +937,7 @@
 - [isagalaev/ijson](https://github.com/isagalaev/ijson) - Iterative JSON parser with Pythonic interface
 - [ptpb/pb](https://github.com/ptpb/pb) - pb is a formerly-lightweight pastebin and url shortener
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
-- [imWildCat/scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™ (Maintainer needed)
+- [imWildCat/scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™
 - [Robpol86/Flask-Large-Application-Example](https://github.com/Robpol86/Flask-Large-Application-Example) - This is how I structure my large Flask applications.
 - [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
 - [beeware/toga](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit.
