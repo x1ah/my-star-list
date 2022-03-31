@@ -825,6 +825,7 @@
 
 ## Python 
 
+- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [nicoddemus/pytest-rich](https://github.com/nicoddemus/pytest-rich) - pytest + rich integration (proof of concept)
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
@@ -871,7 +872,7 @@
 - [laixintao/pingtop](https://github.com/laixintao/pingtop) - 🏓Ping multiple servers and show results in a top-like terminal UI.
 - [evilham/weneeda.name](https://github.com/evilham/weneeda.name) - 
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
-- [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
 - [dropbox/pyannotate](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations
 - [douban/dpark](https://github.com/douban/dpark) - Python clone of Spark,  a MapReduce alike framework in Python
