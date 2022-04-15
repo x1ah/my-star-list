@@ -307,7 +307,7 @@
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [lnquy/cron](https://github.com/lnquy/cron) - CLI tool (hcron) and Go library (cron) to convert CRON expression into human readable description.
 - [x1ah/alfred-cron](https://github.com/x1ah/alfred-cron) - Alfred workflow for parse crontab expression
-- [golang-design/Go-Questions](https://github.com/golang-design/Go-Questions) - 📖 从问题切入，串连  Go 语言相关的所有知识，融会贯通。 https://golang.design/go-questions
+- [golang-design/go-questions](https://github.com/golang-design/go-questions) - 📖 从问题切入，串连  Go 语言相关的所有知识，融会贯通。 https://golang.design/go-questions
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
