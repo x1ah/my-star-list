@@ -467,7 +467,7 @@
 
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [xiachufang/xiachufang.github.io](https://github.com/xiachufang/xiachufang.github.io) - K1tchen - Xiachufang Engineering Blog
-- [cadejscroggins/tilde](https://github.com/cadejscroggins/tilde) - Minimal browser startpage.
+- [xvvvyz/tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [riggraz/no-style-please](https://github.com/riggraz/no-style-please) - A (nearly) no-CSS, fast, minimalist Jekyll theme.
 - [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
