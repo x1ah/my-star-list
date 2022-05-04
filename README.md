@@ -401,7 +401,7 @@
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed hybrid transaction/analytical  database compatible with the MySQL protocol
 - [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [bcicen/grmon](https://github.com/bcicen/grmon) - Command line monitoring for goroutines
 - [tealeg/xlsx](https://github.com/tealeg/xlsx) - Go (golang) library for reading and writing XLSX files.
@@ -882,6 +882,7 @@
 - [laixintao/pingtop](https://github.com/laixintao/pingtop) - 🏓Ping multiple servers and show results in a top-like terminal UI.
 - [evilham/weneeda.name](https://github.com/evilham/weneeda.name) - 
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
+- [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
 - [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
 - [dropbox/pyannotate](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations
@@ -1195,7 +1196,6 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
-- [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
 - [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
