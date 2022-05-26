@@ -879,7 +879,7 @@
 - [evilham/weneeda.name](https://github.com/evilham/weneeda.name) - 
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
-- [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
 - [dropbox/pyannotate](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations
 - [douban/dpark](https://github.com/douban/dpark) - Python clone of Spark,  a MapReduce alike framework in Python
