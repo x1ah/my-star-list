@@ -161,7 +161,7 @@
 - [zdhxiong/v2ex-material-theme](https://github.com/zdhxiong/v2ex-material-theme) - v2ex 的 Material design 风格 CSS
 - [Daemonite/material](https://github.com/Daemonite/material) - Material Design for Bootstrap 4
 - [kbrsh/wing](https://github.com/kbrsh/wing) - :gem: A beautiful CSS framework designed for minimalists.
-- [bollnh/hexo-theme-material](https://github.com/bollnh/hexo-theme-material) - Material Design theme for hexo.
+- [iblh/hexo-theme-material](https://github.com/iblh/hexo-theme-material) - Material Design theme for hexo.
 - [i5ting/tocmd.gem](https://github.com/i5ting/tocmd.gem) - a ruby gem wrapper of i5ting_ztree_toc
 - [caspartse/QQ-Groups-Spider](https://github.com/caspartse/QQ-Groups-Spider) - QQ Groups Spider（QQ 群爬虫）
 - [comynli/pybooklet](https://github.com/comynli/pybooklet) - 
