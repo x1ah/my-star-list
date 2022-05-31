@@ -724,7 +724,7 @@
 - [ClassmateLin/scripts](https://github.com/ClassmateLin/scripts) - jd https://t.me/+fo3HSUe3nbRiNjY1
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [i0Ek3/work-and-life-in-system](https://github.com/i0Ek3/work-and-life-in-system) - 程序员在体制内的工作和生活是怎样的？
-- [devopsfaith/krakend-contrib](https://github.com/devopsfaith/krakend-contrib) - A list of awesome modules and adaptors for the KrakenD framework.
+- [krakendio/krakend-contrib](https://github.com/krakendio/krakend-contrib) - A list of awesome modules and adaptors for the KrakenD framework.
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
 - [faster-cpython/ideas](https://github.com/faster-cpython/ideas) - 
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
