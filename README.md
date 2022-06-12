@@ -496,6 +496,7 @@
 
 ## Java 
 
+- [libsgh/tieba-api](https://github.com/libsgh/tieba-api) - 简单封装了百度贴吧的基本操作，登录，签到，回帖等
 - [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
 - [fkorotkov/intellij-thrift](https://github.com/fkorotkov/intellij-thrift) - 
 - [alibaba/COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented & Layered Architecture
