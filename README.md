@@ -904,7 +904,7 @@
 - [wzhe06/Reco-papers](https://github.com/wzhe06/Reco-papers) - Classic papers and resources on recommendation
 - [youtube/spitfire](https://github.com/youtube/spitfire) - A high-performance Python template language
 - [bbangert/beaker](https://github.com/bbangert/beaker) - WSGI middleware for sessions and caching
-- [pgjones/quart](https://github.com/pgjones/quart) - Official mirror of https://gitlab.com/pgjones/quart
+- [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
 - [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
