@@ -407,7 +407,7 @@
 - [tealeg/xlsx](https://github.com/tealeg/xlsx) - Go (golang) library for reading and writing XLSX files.
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
-- [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
+- [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
 - [gocelery/gocelery](https://github.com/gocelery/gocelery) - Celery Distributed Task Queue in Go
 - [goinaction/code](https://github.com/goinaction/code) - Source Code for Go In Action examples
 - [cheggaaa/pb](https://github.com/cheggaaa/pb) - Console progress bar for Golang
