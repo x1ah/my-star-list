@@ -228,6 +228,7 @@
 
 ## Go 
 
+- [davidschlachter/embedded-struct-visualizer](https://github.com/davidschlachter/embedded-struct-visualizer) - Tool to visualize the graph of embedded structs in Go projects
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A service orchestrator for distributed transactions, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
