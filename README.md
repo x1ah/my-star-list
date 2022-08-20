@@ -322,7 +322,7 @@
 - [grpc-ecosystem/grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe) - A command-line tool to perform health-checks for gRPC applications in Kubernetes etc.
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
-- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory data structure store. It can be used both as an embedded Go library and as a language-independent service.
+- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used both as an embedded Go library and as a language-independent service.
 - [samaritan-proxy/samaritan](https://github.com/samaritan-proxy/samaritan) - A transparent proxy focus on infrastructure
 - [alibaba/sentinel-golang](https://github.com/alibaba/sentinel-golang) - Sentinel Go version (Reliability & Resilience)
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
