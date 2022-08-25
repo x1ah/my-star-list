@@ -54,7 +54,7 @@
 - [TypeScript](#typescript)
 - [V](#v)
 - [Vala](#vala)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Visual Basic](#visual-basic)
 - [Vue](#vue)
 
@@ -695,7 +695,7 @@
 
 ## Makefile 
 
-- [servicemesher/istio-handbook](https://github.com/servicemesher/istio-handbook) - Istio Service Mesh Advanced Practical - Istio服务网格进阶实战 https://www.servicemesher.com/istio-handbook/
+- [servicemesher/istio-handbook](https://github.com/servicemesher/istio-handbook) - Istio服务网格进阶实战
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [flaggo/python3-source-code-analysis](https://github.com/flaggo/python3-source-code-analysis) - 《Python 3 源码剖析》
@@ -1336,7 +1336,7 @@
 
 - [elementary-tweaks/elementary-tweaks](https://github.com/elementary-tweaks/elementary-tweaks) - elementary OS customization tool
 
-## Vim script 
+## Vim Script 
 
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [Raimondi/delimitMate](https://github.com/Raimondi/delimitMate) - Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.
