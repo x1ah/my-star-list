@@ -1108,7 +1108,7 @@
 - [sripathikrishnan/jinjasql](https://github.com/sripathikrishnan/jinjasql) - Template Language for SQL with Automatic Bind Parameter Extraction
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [pythoncn/june](https://github.com/pythoncn/june) - June is a forum (Deprecated)
-- [mank319/elementaryPlus](https://github.com/mank319/elementaryPlus) - This theme is an addition to elementary OS's default icon theme. It contains icons for several third party applications that resemble elementary OS's style.
+- [Manuel-Kehl/elementaryPlus](https://github.com/Manuel-Kehl/elementaryPlus) - This theme is an addition to elementary OS's default icon theme. It contains icons for several third party applications that resemble elementary OS's style.
 - [maralla/completor.vim](https://github.com/maralla/completor.vim) - Async completion framework made ease.
 - [ipython/ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 - [chyroc/WechatSogou](https://github.com/chyroc/WechatSogou) - 基于搜狗微信搜索的微信公众号爬虫接口
