@@ -292,7 +292,7 @@
 - [krakendio/krakend-ratelimit](https://github.com/krakendio/krakend-ratelimit) - A collection of curated ratelimiter adaptors for the KrakenD framework
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [go-gomail/gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go.
 - [tidwall/uhaha](https://github.com/tidwall/uhaha) - High Availability Raft Framework for Go
@@ -1323,7 +1323,7 @@
 - [antvis/G2](https://github.com/antvis/G2) - 📊 A visualization grammar for dashboard building, data exploration and storytelling.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [yuche/gouqi](https://github.com/yuche/gouqi) - 🐸 枸杞 - 伪装成音乐客户端的计时 App
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [hustcc/onfire.js](https://github.com/hustcc/onfire.js) - :gun: onfire.js is a nano version (~500b) for event-emitter.
 
