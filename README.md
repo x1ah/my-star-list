@@ -513,7 +513,7 @@
 - [jvolkman/intellij-protobuf-editor](https://github.com/jvolkman/intellij-protobuf-editor) - Protocol Buffers for IntelliJ-based IDEs
 - [corona-warn-app/cwa-server](https://github.com/corona-warn-app/cwa-server) - Backend implementation for the Apple/Google exposure notification API.
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
-- [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的OR
+- [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
 - [heibaiying/BigData-Notes](https://github.com/heibaiying/BigData-Notes) - 大数据入门指南  :star:
 - [RoaringBitmap/RoaringBitmap](https://github.com/RoaringBitmap/RoaringBitmap) - A better compressed bitset in Java
