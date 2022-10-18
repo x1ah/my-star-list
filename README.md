@@ -175,7 +175,7 @@
 
 ## Clojure 
 
-- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
+- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 
 ## CoffeeScript 
 
@@ -235,7 +235,7 @@
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated service health dashboard
 - [bytedance/godlp](https://github.com/bytedance/godlp) - sensitive information protection toolkit
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [golang/groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
@@ -1015,7 +1015,7 @@
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [mattupstate/flask-security](https://github.com/mattupstate/flask-security) - Quick and simple security for Flask applications
 - [googleapis/oauth2client](https://github.com/googleapis/oauth2client) - This is a Python library for accessing resources protected by OAuth 2.0.
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [lalor/python_for_linux_system_administration](https://github.com/lalor/python_for_linux_system_administration) - 
 - [Ivoah/minimap](https://github.com/Ivoah/minimap) - Generate minimaps of your code
@@ -1247,7 +1247,7 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [alex000kim/nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
-- [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
+- [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - 
 - [wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial) - Bash 教程
 - [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册 -  https://jimmysong.io/kubernetes-handbook
 - [nicolargo/docker-influxdb-grafana](https://github.com/nicolargo/docker-influxdb-grafana) - Docker-compose files for a simple InfluxDB + Grafana stack
