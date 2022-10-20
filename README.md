@@ -115,6 +115,7 @@
 
 ## C++ 
 
+- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [bytedance/terarkdb](https://github.com/bytedance/terarkdb) - A RocksDB compatible KV storage engine with better performance
 - [apache/incubator-kvrocks](https://github.com/apache/incubator-kvrocks) - Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
