@@ -878,7 +878,7 @@
 - [confluentinc/cp-docker-images](https://github.com/confluentinc/cp-docker-images) - [DEPRECATED] Docker images for Confluent Platform.
 - [sibson/redbeat](https://github.com/sibson/redbeat) - RedBeat is a Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis.
 - [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt) - A Python module for decorators, wrappers and monkey patching.
-- [elastic/apm-agent-python](https://github.com/elastic/apm-agent-python) - Official Python agent for the Elastic APM
+- [elastic/apm-agent-python](https://github.com/elastic/apm-agent-python) - Official Python agent for Elastic APM
 - [pytest-dev/pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
 - [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [laixintao/pingtop](https://github.com/laixintao/pingtop) - 🏓Ping multiple servers and show results in a top-like terminal UI.
