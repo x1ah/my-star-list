@@ -367,7 +367,7 @@
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
 - [Terry-Mao/goim](https://github.com/Terry-Mao/goim) - goim
-- [antonmedv/expr](https://github.com/antonmedv/expr) - Expression language for Go
+- [antonmedv/expr](https://github.com/antonmedv/expr) - Expression language and expression evaluation for Go
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [elliotchance/pie](https://github.com/elliotchance/pie) - 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.
