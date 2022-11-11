@@ -171,7 +171,6 @@
 - [xiangming/landscape-plus](https://github.com/xiangming/landscape-plus) - 针对中国大陆地区对hexo官方主题landscape进行优化。
 - [TryGhost/Casper](https://github.com/TryGhost/Casper) - The default theme for Ghost
 - [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)
-- [iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
 
 ## Clojure 
 
@@ -661,6 +660,7 @@
 - [xing5/hexo-theme-animastars](https://github.com/xing5/hexo-theme-animastars) - A theme for Hexo. Add star animation to the official landscape theme.
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
+- [iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
 
 ## Jinja 
 
