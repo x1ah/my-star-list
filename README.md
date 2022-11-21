@@ -322,7 +322,7 @@
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used both as an embedded Go library and as a language-independent service.
 - [samaritan-proxy/samaritan](https://github.com/samaritan-proxy/samaritan) - A transparent proxy focus on infrastructure
-- [alibaba/sentinel-golang](https://github.com/alibaba/sentinel-golang) - Sentinel Go version (Reliability & Resilience)
+- [alibaba/sentinel-golang](https://github.com/alibaba/sentinel-golang) - Sentinel Go enables reliability and resiliency for Go microservices
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [golang/sync](https://github.com/golang/sync) - [mirror] concurrency primitives
 - [tchap/zapext](https://github.com/tchap/zapext) - Zap logging package extensions
