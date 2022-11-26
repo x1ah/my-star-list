@@ -1153,7 +1153,7 @@
 
 ## Rascal 
 
-- [kelthuzadx/hosts](https://github.com/kelthuzadx/hosts) - :statue_of_liberty:最新可用的google hosts文件。国内镜像：
+- [y1yang0/hosts](https://github.com/y1yang0/hosts) - :statue_of_liberty:最新可用的google hosts文件。国内镜像：
 
 ## Roff 
 
