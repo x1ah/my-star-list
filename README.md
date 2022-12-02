@@ -880,7 +880,7 @@
 - [sibson/redbeat](https://github.com/sibson/redbeat) - RedBeat is a Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis.
 - [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt) - A Python module for decorators, wrappers and monkey patching.
 - [elastic/apm-agent-python](https://github.com/elastic/apm-agent-python) - Official Python agent for Elastic APM
-- [pytest-dev/pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
+- [pytest-dev/pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Asyncio support for pytest
 - [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [laixintao/pingtop](https://github.com/laixintao/pingtop) - 🏓Ping multiple servers and show results in a top-like terminal UI.
 - [evilham/weneeda.name](https://github.com/evilham/weneeda.name) - 
