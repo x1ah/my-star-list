@@ -837,6 +837,7 @@
 
 ## Python 
 
+- [x1ah/picobbs](https://github.com/x1ah/picobbs) - Picoxr bbs point task
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) - 
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
