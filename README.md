@@ -25,6 +25,7 @@
 - [FreeMarker](#freemarker)
 - [Go](#go)
 - [Groovy](#groovy)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Java](#java)
@@ -141,7 +142,7 @@
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
-- [apache/incubator-brpc](https://github.com/apache/incubator-brpc) - brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means 
+- [apache/brpc](https://github.com/apache/brpc) - brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means 
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
 - [Tencent/phxsql](https://github.com/Tencent/phxsql) - A high availability MySQL cluster that guarantees data consistency between a master and slaves.
@@ -465,6 +466,10 @@
 ## Groovy 
 
 - [rahulsom/lgtmin](https://github.com/rahulsom/lgtmin) - Say 'Looks good to me' with pictures
+
+## HCL 
+
+- [chef/bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
 
 ## HTML 
 
@@ -1266,7 +1271,6 @@
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [taizilongxu/interview_python](https://github.com/taizilongxu/interview_python) - 关于Python的面试题
 - [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
-- [chef/bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Color Scheme for your Terminal
 - [aruhier/gnome-terminal-colors-solarized](https://github.com/aruhier/gnome-terminal-colors-solarized) - Solarized Gnome Terminal colors, based on http://ethanschoonover.com/solarized
 - [mchav/with](https://github.com/mchav/with) - Command prefixing for continuous workflow using a single tool.
