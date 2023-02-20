@@ -233,6 +233,7 @@
 
 ## Go 
 
+- [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
 - [luw2007/bitable-mysql-driver](https://github.com/luw2007/bitable-mysql-driver) - 多维表格(bitable) 很像数据库，写了一个简易的 mysql driver。可以用 sql 来修改多维表格。
 - [davidschlachter/embedded-struct-visualizer](https://github.com/davidschlachter/embedded-struct-visualizer) - Tool to visualize the graph of embedded structs in Go projects
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
@@ -1091,7 +1092,7 @@
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [djstein/modern-django](https://github.com/djstein/modern-django) - Modern Django: A Guide on How to Deploy Django-based Web Applications in 2017
 - [pallets/werkzeug](https://github.com/pallets/werkzeug) - The comprehensive WSGI web application library.
-- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Next generation Python web server/framework | Build fast. Run fast.
+- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
 - [falseen/PySocket](https://github.com/falseen/PySocket) - PySocket ，一个通过猴子补丁（monkey patch）动态修改 socket 的项目。在不修改源码的情况下给 socket 增加一些诸如限制客户端数量、前置代理之类的功能。让我们将 Monkey Patch 进行到底吧！
 - [pandolia/qqbot](https://github.com/pandolia/qqbot) - QQBot: A conversation robot base on Tencent's SmartQQ
 - [aploium/shootback](https://github.com/aploium/shootback) - a reverse TCP tunnel let you access target behind NAT or firewall
