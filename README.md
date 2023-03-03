@@ -710,6 +710,7 @@
 
 - [servicemesher/istio-handbook](https://github.com/servicemesher/istio-handbook) - Istio服务网格进阶实战
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
+- [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [flaggo/python3-source-code-analysis](https://github.com/flaggo/python3-source-code-analysis) - 《Python 3 源码剖析》
 - [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
@@ -761,7 +762,6 @@
 - [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [LingCoder/OnJava8](https://github.com/LingCoder/OnJava8) - 《On Java 8》中文版
-- [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [Sweet-KK/css-layout](https://github.com/Sweet-KK/css-layout) - 各种常见布局CSS实现,知名网站布局分析,相关阅读推荐
 - [Magiccwl/blog](https://github.com/Magiccwl/blog) - My personal blog
