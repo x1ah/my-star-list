@@ -864,7 +864,6 @@
 - [eisenxp/macos-golink-wrapper](https://github.com/eisenxp/macos-golink-wrapper) - solution to "syscall.Mprotect panic: permission denied" on macOS Catalina 10.15.x
 - [msgpack/msgpack-python](https://github.com/msgpack/msgpack-python) - MessagePack serializer implementation for Python msgpack.org[Python]
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
-- [ClassmateLin/scripts](https://github.com/ClassmateLin/scripts) - jd scripts
 - [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Elasticsearch client library for Python
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
