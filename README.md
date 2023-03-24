@@ -44,7 +44,6 @@
 - [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [Python](#python)
-- [Rascal](#rascal)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -1166,10 +1165,6 @@
 - [fossfreedom/indicator-sysmonitor](https://github.com/fossfreedom/indicator-sysmonitor) - Ubuntu application indicator to show various system parameters
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
-
-## Rascal 
-
-- [y1yang0/hosts](https://github.com/y1yang0/hosts) - :statue_of_liberty:最新可用的google hosts文件。国内镜像：
 
 ## Roff 
 
