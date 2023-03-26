@@ -305,7 +305,7 @@
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -1014,7 +1014,7 @@
 - [thadeusb/flask-cache](https://github.com/thadeusb/flask-cache) - Cache extension for Flask
 - [prateekiiest/Code-Sleep-Python](https://github.com/prateekiiest/Code-Sleep-Python) - Awesome Projects in Python - Machine Learning Applications, Games, Desktop Applications all in Python :snake:
 - [paicha/gxgk-wechat-server](https://github.com/paicha/gxgk-wechat-server) - 校园微信公众号，使用 Python、Flask、Redis、MySQL、Celery [DEPRECATED]
-- [PyMySQL/PyMySQL](https://github.com/PyMySQL/PyMySQL) - Pure Python MySQL Client
+- [PyMySQL/PyMySQL](https://github.com/PyMySQL/PyMySQL) - MySQL client library for Python
 - [WebwareForPython/DBUtils](https://github.com/WebwareForPython/DBUtils) - Database connections for multi-threaded environments
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [dcantrell/pycoreutils](https://github.com/dcantrell/pycoreutils) - Python implementation of basic Unix utilities, modeled to support GNU coreutils features.
