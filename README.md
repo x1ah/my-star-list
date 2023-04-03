@@ -324,7 +324,7 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [strava/go.strava](https://github.com/strava/go.strava) - A complete client library for the Strava V3 API
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
-- [grpc-ecosystem/grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe) - A command-line tool to perform health-checks for gRPC applications in Kubernetes etc.
+- [grpc-ecosystem/grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe) - A command-line tool to perform health-checks for gRPC applications in Kubernetes and elsewhere
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used both as an embedded Go library and as a language-independent service.
