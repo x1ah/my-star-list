@@ -1304,7 +1304,7 @@
 ## TypeScript 
 
 - [ovnrain/netease-music-cloud-uploader](https://github.com/ovnrain/netease-music-cloud-uploader) - 解决 Mac 端网易云音乐无法上传到音乐云盘的问题
-- [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) - A demo repo based on OpenAI API.
+- [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) - Optimized UI for ChatGPT, DALL-E and Stable Diffusion.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [Operational-Transformation/operational-transformation.github.com](https://github.com/Operational-Transformation/operational-transformation.github.com) - 
@@ -1334,7 +1334,7 @@
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 - [antvis/G2](https://github.com/antvis/G2) - 📊 A concise and progressive visualization grammar.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [yuche/gouqi](https://github.com/yuche/gouqi) - 🐸 枸杞 - 伪装成音乐客户端的计时 App
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [hustcc/onfire.js](https://github.com/hustcc/onfire.js) - :gun: onfire.js is a nano version (~500b) for event-emitter.
