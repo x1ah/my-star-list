@@ -581,7 +581,7 @@
 - [hltj/kotlin-web-site-cn](https://github.com/hltj/kotlin-web-site-cn) - Kotlin 语言中文站
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
-- [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
+- [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories.
 - [vasanthv/jsonbox](https://github.com/vasanthv/jsonbox) - HTTP-based JSON storage.
 - [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
 - [leanflutter/flutter-widget-livebook](https://github.com/leanflutter/flutter-widget-livebook) - Live preview example for flutter widgets.
@@ -1249,7 +1249,7 @@
 - [apache/rocketmq-docker](https://github.com/apache/rocketmq-docker) - Apache RocketMQ Docker
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
-- [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [grandcolline/golang-github-actions](https://github.com/grandcolline/golang-github-actions) - Static code analysis checker for golang 🐙
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
