@@ -232,7 +232,7 @@
 
 ## Go 
 
-- [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
+- [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by CloudWeGo.
 - [luw2007/bitable-mysql-driver](https://github.com/luw2007/bitable-mysql-driver) - 多维表格(bitable) 很像数据库，写了一个简易的 mysql driver。可以用 sql 来修改多维表格。
 - [davidschlachter/embedded-struct-visualizer](https://github.com/davidschlachter/embedded-struct-visualizer) - Tool to visualize the graph of embedded structs in Go projects
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
@@ -1305,7 +1305,7 @@
 ## TypeScript 
 
 - [ovnrain/netease-music-cloud-uploader](https://github.com/ovnrain/netease-music-cloud-uploader) - 解决 Mac 端网易云音乐无法上传到音乐云盘的问题
-- [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) - Optimized UI for ChatGPT, DALL-E and Stable Diffusion.
+- [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal UI for ChatGPT.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [Operational-Transformation/operational-transformation.github.com](https://github.com/Operational-Transformation/operational-transformation.github.com) - 
