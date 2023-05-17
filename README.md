@@ -227,6 +227,7 @@
 
 ## Go 
 
+- [chyroc/lark](https://github.com/chyroc/lark) - Feishu(飞书)/Lark Open API Go SDK, Support ALL Open API and Event Callback.
 - [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework focusing on RPC scenarios.
 - [luw2007/bitable-mysql-driver](https://github.com/luw2007/bitable-mysql-driver) - 多维表格(bitable) 很像数据库，写了一个简易的 mysql driver。可以用 sql 来修改多维表格。
 - [davidschlachter/embedded-struct-visualizer](https://github.com/davidschlachter/embedded-struct-visualizer) - Tool to visualize the graph of embedded structs in Go projects
@@ -744,7 +745,7 @@
 - [krakendio/krakend-contrib](https://github.com/krakendio/krakend-contrib) - A list of awesome modules and adaptors for the KrakenD framework.
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
 - [faster-cpython/ideas](https://github.com/faster-cpython/ideas) - 
-- [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥         推荐刷题网站：https://www.lintcode.com/?utm_source=tf-github-codetop
+- [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥         推荐免费ChatGPT网站：https://www.lintcode.com/chat-gpt?utm_source=tf-github-codetop
 - [x1ah/gena-template](https://github.com/x1ah/gena-template) - 一键生成导航网站(GitHub Template of generating personal start page)
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [LeadroyaL/pdd_3years](https://github.com/LeadroyaL/pdd_3years) - 
