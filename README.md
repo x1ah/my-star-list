@@ -471,6 +471,7 @@
 
 ## HTML 
 
+- [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [xiachufang/xiachufang.github.io](https://github.com/xiachufang/xiachufang.github.io) - K1tchen - Xiachufang Engineering Blog
 - [xvvvyz/tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
