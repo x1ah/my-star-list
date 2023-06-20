@@ -271,7 +271,7 @@
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
 - [8treenet/cdp-service](https://github.com/8treenet/cdp-service) - cdp数据平台，帮助企业充分了解客户，实现千人千面的精准营销。
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
-- [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
+- [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [golang-design/under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | Go 语言原本 | https://golang.design/under-the-hood
@@ -438,7 +438,7 @@
 - [rsc/2fa](https://github.com/rsc/2fa) - Two-factor authentication on the command line
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
 - [InkProject/ink](https://github.com/InkProject/ink) - An elegant static blog generator
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
