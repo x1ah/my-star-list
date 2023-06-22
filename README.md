@@ -103,7 +103,6 @@
 - [lemon-lang/lemon](https://github.com/lemon-lang/lemon) - Lemon is open source, embeddable, lightweight programming language http://www.lemon-lang.org
 - [begeekmyfriend/leetcode](https://github.com/begeekmyfriend/leetcode) - LeetCode in pure C
 - [cloudwu/coroutine](https://github.com/cloudwu/coroutine) - A asymmetric coroutine library for C.
-- [hsoft/icemu](https://github.com/hsoft/icemu) - Emulate Integrated Circuits at the logic level
 - [yourtion/30dayMakeOS](https://github.com/yourtion/30dayMakeOS) - 《30天自制操作系统》源码中文版。自己制作一个操作系统（OSASK）的过程
 - [minoca/os](https://github.com/minoca/os) - Minoca operating system
 - [minixalpha/SourceLearning](https://github.com/minixalpha/SourceLearning) - Learning of source code
