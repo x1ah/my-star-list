@@ -291,7 +291,7 @@
 - [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go
 - [yl2chen/cidranger](https://github.com/yl2chen/cidranger) - Fast IP to CIDR lookup in Golang
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-- [krakendio/krakend-ratelimit](https://github.com/krakendio/krakend-ratelimit) - A collection of curated ratelimiter adaptors for the KrakenD framework
+- [krakend/krakend-ratelimit](https://github.com/krakend/krakend-ratelimit) - A collection of curated ratelimiter adaptors for the KrakenD framework
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -489,7 +489,6 @@
 - [mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io) - Jekyll Themes / GitHub Pages 博客模板 / A template repository for Jekyll based blog
 - [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
-- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [yuan1994/wechat_web_devtools](https://github.com/yuan1994/wechat_web_devtools) - 微信开发者工具（wechat_web_devtools）Linux版，微信小程序Linux版，支持最新微信小程序开发和微信网页开发
 - [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
 - [hellokaton/java-bible](https://github.com/hellokaton/java-bible) - :banana: 我的技术摘要
@@ -745,7 +744,7 @@
 - [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [i0Ek3/work-and-life-in-system](https://github.com/i0Ek3/work-and-life-in-system) - 程序员在体制内的工作和生活是怎样的？
-- [krakendio/krakend-contrib](https://github.com/krakendio/krakend-contrib) - A list of awesome modules and adaptors for the KrakenD framework.
+- [krakend/krakend-contrib](https://github.com/krakend/krakend-contrib) - A list of awesome modules and adaptors for the KrakenD framework.
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
 - [faster-cpython/ideas](https://github.com/faster-cpython/ideas) - 
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥         推荐免费ChatGPT网站：https://www.lintcode.com/chat-gpt?utm_source=tf-github-codetop
@@ -835,6 +834,7 @@
 - [owen0o0/WebStack](https://github.com/owen0o0/WebStack) - WordPress 版 WebStack 导航主题 https://nav.iowen.cn
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [fecshop/yii2_fecshop](https://github.com/fecshop/yii2_fecshop) - yii2 ( PHP ) fecmall（fecshop） core code used for ecommerce shop 多语言多货币多入口的开源电商 B2C 商城，支持移动端vue, app, html5，微信小程序微店，微信小程序商城等
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [ZhuFaner/shadowsocks-manage-system](https://github.com/ZhuFaner/shadowsocks-manage-system) - 科学上网管理系统
 - [chakhsu/pinghsu](https://github.com/chakhsu/pinghsu) - Pinghsu,  A Typecho Theme
 - [hanc00l/wooyun_public](https://github.com/hanc00l/wooyun_public) - This repo is archived. Thanks for wooyun!  乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops
