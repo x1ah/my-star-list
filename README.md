@@ -1290,9 +1290,9 @@
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [marmelroy/FileBrowser](https://github.com/marmelroy/FileBrowser) - Finder-style iOS file browser written in Swift
-- [songkuixi/TouchBreakout](https://github.com/songkuixi/TouchBreakout) - Play Breakout game on your MacBook Pro with Touch Bar, using SpriteKit. 用 Touch Bar 在 Mac 上玩打砖块游戏
+- [krayc425/TouchBreakout](https://github.com/krayc425/TouchBreakout) - Play Breakout game on your MacBook Pro with Touch Bar, using SpriteKit. 用 Touch Bar 在 Mac 上玩打砖块游戏
 - [fancymax/12306ForMac](https://github.com/fancymax/12306ForMac) - An unofficial 12306 Client for Mac
-- [songkuixi/ARGitHubCommits](https://github.com/songkuixi/ARGitHubCommits) - Show your GitHub commit records in 3D with ARKit and SceneKit. 用 ARKit 展示你的 GitHub 提交图
+- [krayc425/ARGitHubCommits](https://github.com/krayc425/ARGitHubCommits) - Show your GitHub commit records in 3D with ARKit and SceneKit. 用 ARKit 展示你的 GitHub 提交图
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 - [darkerk/v2ex](https://github.com/darkerk/v2ex) - The unofficial V2EX app for iOS
 
