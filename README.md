@@ -297,7 +297,7 @@
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [krakend/krakend-ratelimit](https://github.com/krakend/krakend-ratelimit) - A collection of curated ratelimiter adaptors for the KrakenD framework
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed to DarwinKit!
+- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [go-gomail/gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go.
