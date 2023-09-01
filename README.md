@@ -493,6 +493,7 @@
 - [mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io) - Jekyll Themes / GitHub Pages 博客模板 / A template repository for Jekyll based blog
 - [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
 - [yuan1994/wechat_web_devtools](https://github.com/yuan1994/wechat_web_devtools) - 微信开发者工具（wechat_web_devtools）Linux版，微信小程序Linux版，支持最新微信小程序开发和微信网页开发
 - [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
 - [hellokaton/java-bible](https://github.com/hellokaton/java-bible) - :banana: 我的技术摘要
@@ -803,7 +804,6 @@
 - [kakuilan/china_area_mysql](https://github.com/kakuilan/china_area_mysql) - 中国5级行政区域mysql库
 - [pexcn/com.netease.vopen](https://github.com/pexcn/com.netease.vopen) - 
 - [liuchengxu/git-commit-emoji-cn](https://github.com/liuchengxu/git-commit-emoji-cn) - 😁 git commit message emoji 使用指南
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
 - [x1ah/Blog](https://github.com/x1ah/Blog) - 个人博客、笔记
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [mattharrison/Tiny-Python-3.6-Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - This repository contains the text for the Tiny Python 3.6 Notebook.
