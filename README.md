@@ -76,7 +76,7 @@
 ## C 
 
 - [peng-zhihui/ElectronBot](https://github.com/peng-zhihui/ElectronBot) - 
-- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
+- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [rigtorp/ipc-bench](https://github.com/rigtorp/ipc-bench) - Latency benchmarks of Unix IPC mechanisms
 - [tass-belgium/picotcp](https://github.com/tass-belgium/picotcp) - PicoTCP is a free TCP/IP stack implementation
