@@ -1117,7 +1117,7 @@
 - [johnwheeler/flask-ask](https://github.com/johnwheeler/flask-ask) - Alexa Skills Kit for Python
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [cryptosan/material-blog](https://github.com/cryptosan/material-blog) - 
-- [zzzeek/mako](https://github.com/zzzeek/mako) - Mirror of Mako Templates for Python - gitthub main is now at https://github.com/sqlalchemy/mako
+- [zzzeek/mako](https://github.com/zzzeek/mako) - THIS IS NOT THE OFFICIAL REPO - PLEASE SUBMIT PRs ETC AT: http://github.com/sqlalchemy/mako
 - [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
 - [rover12421/bcloud](https://github.com/rover12421/bcloud) - 百度网盘的linux桌面客户端
 - [qiyeboy/IPProxyPool](https://github.com/qiyeboy/IPProxyPool) - IPProxyPool代理池项目，提供代理ip
