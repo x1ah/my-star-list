@@ -1023,7 +1023,7 @@
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [dcantrell/pycoreutils](https://github.com/dcantrell/pycoreutils) - Python implementation of basic Unix utilities, modeled to support GNU coreutils features.
 - [openeventdata/mordecai](https://github.com/openeventdata/mordecai) - Full text geoparsing as a Python library
-- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite
+- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
 - [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
