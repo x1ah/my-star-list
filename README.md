@@ -474,7 +474,7 @@
 
 ## HTML 
 
-- [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
+- [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [xiachufang/xiachufang.github.io](https://github.com/xiachufang/xiachufang.github.io) - K1tchen - Xiachufang Engineering Blog
 - [xvvvyz/tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
