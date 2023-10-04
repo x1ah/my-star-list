@@ -854,7 +854,7 @@
 ## Python 
 
 - [x1ah/picobbs](https://github.com/x1ah/picobbs) - Pico 社区自动领取积分脚本 https://bbs.picoxr.com/
-- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
+- [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) - 
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
