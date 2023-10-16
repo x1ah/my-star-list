@@ -961,7 +961,7 @@
 - [xiachufang/GT](https://github.com/xiachufang/GT) - 
 - [elastic/elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) - High level Python client for Elasticsearch
 - [omnilib/aiomultiprocess](https://github.com/omnilib/aiomultiprocess) - Take a modern Python codebase to the next level of performance.
-- [Toblerity/rtree](https://github.com/Toblerity/rtree) - Rtree: spatial index for Python GIS ¶
+- [Toblerity/rtree](https://github.com/Toblerity/rtree) - Rtree: spatial index for Python GIS
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
