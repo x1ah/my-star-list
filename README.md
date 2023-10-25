@@ -1180,7 +1180,7 @@
 
 ## Rust 
 
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [vvilhonen/nethoscope](https://github.com/vvilhonen/nethoscope) - Employ your built-in wetware pattern recognition and signal processing facilities to understand your network traffic
