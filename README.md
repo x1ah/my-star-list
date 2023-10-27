@@ -609,7 +609,7 @@
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [YCF/Christy_gift](https://github.com/YCF/Christy_gift) - 这个是我2013年送出的情人节礼物，祝各位有情人终成眷属。(地图贴图加载速度我解决不了，我当时是录在手机里的，以防万一，我只能帮到这了。)Demo:
 - [andrecp/django-tutorial-docker-nginx-postgres](https://github.com/andrecp/django-tutorial-docker-nginx-postgres) - Django tutorial running with Nginx, Gunicorn, PostgreSQL and docker-compose
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [sindresorhus/copy-text-to-clipboard](https://github.com/sindresorhus/copy-text-to-clipboard) - Copy text to the clipboard in modern browsers (0.2 kB)
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
