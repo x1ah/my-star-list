@@ -1007,7 +1007,7 @@
 - [RJT1990/pyflux](https://github.com/RJT1990/pyflux) - Open source time series library for Python
 - [anki/cozmo-python-sdk](https://github.com/anki/cozmo-python-sdk) - Anki Cozmo Python SDK
 - [bowenpay/wechat-spider](https://github.com/bowenpay/wechat-spider) - 微信公众号爬虫
-- [miguelgrinberg/microblog](https://github.com/miguelgrinberg/microblog) - A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.
+- [miguelgrinberg/microblog](https://github.com/miguelgrinberg/microblog) - The microblogging application developed in my Flask Mega-Tutorial series. This version maps to the 2024 Edition of the tutorial.
 - [nvdv/vprof](https://github.com/nvdv/vprof) - Visual profiler for Python
 - [thadeusb/flask-cache](https://github.com/thadeusb/flask-cache) - Cache extension for Flask
 - [prateekiiest/Code-Sleep-Python](https://github.com/prateekiiest/Code-Sleep-Python) - Awesome Projects in Python - Machine Learning Applications, Games, Desktop Applications all in Python :snake:
