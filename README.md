@@ -34,6 +34,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nim](#nim)
@@ -584,7 +585,6 @@
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories.
 - [vasanthv/jsonbox](https://github.com/vasanthv/jsonbox) - HTTP-based JSON storage.
 - [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
-- [leanflutter/widget-livebook](https://github.com/leanflutter/widget-livebook) - Live preview example for flutter widgets.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
 - [facebookarchive/planout](https://github.com/facebookarchive/planout) - PlanOut is a library and interpreter for designing online experiments.
@@ -702,6 +702,10 @@
 ## Lua 
 
 - [moonbingbing/openresty-best-practices](https://github.com/moonbingbing/openresty-best-practices) - 
+
+## MDX 
+
+- [leanflutter/widget-livebook](https://github.com/leanflutter/widget-livebook) - Live preview example for flutter widgets.
 
 ## Makefile 
 
