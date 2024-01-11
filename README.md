@@ -1139,7 +1139,6 @@
 - [liuwons/wxBot](https://github.com/liuwons/wxBot) - Deprecated
 - [livid/v2ex-gae](https://github.com/livid/v2ex-gae) - Legacy code of V2EX running on Google App Engine
 - [littlecodersh/danmu](https://github.com/littlecodersh/danmu) - Python 弹幕包 A live danmu package for python
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [v55448330/lazy-balancer](https://github.com/v55448330/lazy-balancer) - nginx for balancer web ui
 - [istommao/behelper](https://github.com/istommao/behelper) - Alfred workflow some usefull commands
 - [PeterDing/iScript](https://github.com/PeterDing/iScript) - 各种脚本 -- 关于 虾米 xiami.com, 百度网盘 pan.baidu.com, 115网盘 115.com, 网易音乐 music.163.com, 百度音乐 music.baidu.com, 360网盘/云盘 yunpan.cn, 视频解析 flvxz.com, bt torrent ↔ magnet, ed2k 搜索, tumblr 图片下载, unzip
@@ -1221,6 +1220,7 @@
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 
 ## SCSS 
 
