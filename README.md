@@ -520,7 +520,7 @@
 - [dianping/cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 - [apache/rocketmq](https://github.com/apache/rocketmq) - Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
-- [medcl/elasticsearch-analysis-pinyin](https://github.com/medcl/elasticsearch-analysis-pinyin) - This Pinyin Analysis plugin is used to do conversion between Chinese characters and Pinyin.
+- [infinilabs/analysis-pinyin](https://github.com/infinilabs/analysis-pinyin) - 🛵 This Pinyin Analysis plugin is used to do conversion between Chinese characters and Pinyin.
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [jvolkman/intellij-protobuf-editor](https://github.com/jvolkman/intellij-protobuf-editor) - Protocol Buffers for IntelliJ-based IDEs
 - [corona-warn-app/cwa-server](https://github.com/corona-warn-app/cwa-server) - Backend implementation for the Apple/Google exposure notification API.
@@ -590,7 +590,7 @@
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
 - [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
-- [Yootou-dev/js2image](https://github.com/Yootou-dev/js2image) - 一个可以把js源代码压缩成一个ascii字符画的源代码的工具，压缩后的代码仍可运行 （A tool can compress JavaScript code to any ascii image and still run normally )
+- [small-tou/js2image](https://github.com/small-tou/js2image) - 一个可以把js源代码压缩成一个ascii字符画的源代码的工具，压缩后的代码仍可运行 （A tool can compress JavaScript code to any ascii image and still run normally )
 - [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) - 《Flutter实战》书稿。第二版书稿已上传，请移步新Repo。
 - [lllyasviel/style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
