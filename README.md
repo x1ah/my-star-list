@@ -843,6 +843,7 @@
 
 ## Python 
 
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff) - Official implementation of AnimateDiff.
 - [x1ah/picobbs](https://github.com/x1ah/picobbs) - Pico 社区自动领取积分脚本 https://bbs.picoxr.com/
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
