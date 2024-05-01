@@ -1278,7 +1278,7 @@
 
 ## Standard ML 
 
-- [binghe/HOL](https://github.com/binghe/HOL) - Forked sources for HOL4 theorem-proving system (for sending PRs)
+- [binghe/HOL](https://github.com/binghe/HOL) - Forked sources for HOL4 theorem-proving system
 - [HOL-Theorem-Prover/HOL](https://github.com/HOL-Theorem-Prover/HOL) - Canonical sources for HOL4 theorem-proving system.   Branch develop is where “mainline development” occurs; when develop passes our regression tests, master is merged forward to catch up.
 
 ## Swift 
