@@ -540,7 +540,7 @@
 - [scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) - 🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
 - [Tencent/VasSonic](https://github.com/Tencent/VasSonic) - VasSonic is a lightweight and high-performance Hybrid framework developed by tencent VAS team, which is intended to speed up the first screen of websites working on Android and iOS platform.
 - [beyondfengyu/HappyChat](https://github.com/beyondfengyu/HappyChat) - 基于Netty实现的WebSocket聊天室，支持几万人同时在线聊天
-- [lzyzsd/JsBridge](https://github.com/lzyzsd/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
+- [uknownothingsnow/JsBridge](https://github.com/uknownothingsnow/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
 - [fanchaoo/forum](https://github.com/fanchaoo/forum) - 一个简单的论坛项目，开发IDE为IntelliJ IDEA，通过Maven构建，后台采用Spring、SpringMVC、MyBatis，数据库采用MySQL、Redis，前台用到jQuery，图片被上传到七牛云。
 - [fanchaoo/hahu](https://github.com/fanchaoo/hahu) - 参照知乎网做的一个简易版问答网站，后台采用Java语言，及Spring，SpringMVC，MyBatis等框架，模版引擎使用FreeMarker。数据库用到MySQL，Redis。
 - [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
