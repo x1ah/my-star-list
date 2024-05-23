@@ -911,7 +911,7 @@
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
 - [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) - 📀 Unlimited Google Drive Storage by splitting binary files into base64
@@ -1100,7 +1100,7 @@
 - [pyk/hsr](https://github.com/pyk/hsr) - Hand signals recognition using Convolutional Neural Network implemented in TensorFlow
 - [ethan-funny/explore-python](https://github.com/ethan-funny/explore-python) - :green_book: The Beauty of Python Programming.
 - [InCodeLearning/InCodeLearning-Python3](https://github.com/InCodeLearning/InCodeLearning-Python3) - core python, basic python
-- [docopt/docopt](https://github.com/docopt/docopt) - This project is no longer maintained. Please see https://github.com/jazzband/docopt-ng
+- [docopt/docopt](https://github.com/docopt/docopt) - Create *beautiful* command-line interfaces with Python
 - [zwczou/weixin-python](https://github.com/zwczou/weixin-python) - 微信SDK - 包括微信支付,微信公众号,微信登陆,微信消息处理等
 - [tumblr/pytumblr](https://github.com/tumblr/pytumblr) - A Python Tumblr API v2 Client
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
@@ -1235,7 +1235,7 @@
 - [olOwOlo/hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even) - 🚀 A super concise theme for Hugo https://hugo-theme-even.netlify.app
 - [morhetz/gruvbox-contrib](https://github.com/morhetz/gruvbox-contrib) - Ports of the gruvbox colorscheme
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
-- [chongshengsun/hexo-theme-apollo](https://github.com/chongshengsun/hexo-theme-apollo) - 🌅 a concise hexo theme
+- [infinity-bot-001/hexo-theme-apollo](https://github.com/infinity-bot-001/hexo-theme-apollo) - 🌅 a concise hexo theme
 - [tufu9441/maupassant-hexo](https://github.com/tufu9441/maupassant-hexo) - A simple Hexo theme forked from icylogic.
 
 ## Shell 
