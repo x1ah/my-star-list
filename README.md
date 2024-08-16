@@ -315,7 +315,7 @@
 - [certifi/gocertifi](https://github.com/certifi/gocertifi) - (Go Distribution) A carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts.
 - [micnncim/action-lgtm-reaction](https://github.com/micnncim/action-lgtm-reaction) - GitHub Action to send LGTM reaction
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [lnquy/cron](https://github.com/lnquy/cron) - CLI tool (hcron) and Go library (cron) to convert CRON expression into human readable description.
 - [x1ah/alfred-cron](https://github.com/x1ah/alfred-cron) - Alfred workflow for parse crontab expression
