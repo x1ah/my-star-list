@@ -19,7 +19,6 @@
 - [DIGITAL Command Language](#digital-command-language)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
-- [EJS](#ejs)
 - [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
 - [FreeMarker](#freemarker)
@@ -210,10 +209,6 @@
 
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-
-## EJS 
-
-- [gwuhaolin/blog](https://github.com/gwuhaolin/blog) - 浩的技术博客
 
 ## Emacs Lisp 
 
