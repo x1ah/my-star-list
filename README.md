@@ -801,7 +801,7 @@
 - [yuguo/BAT-internal-referral](https://github.com/yuguo/BAT-internal-referral) - BAT等国内互联网公司内推
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [cgoldberg/conky-config](https://github.com/cgoldberg/conky-config) - cgoldberg's Conky Configuration
-- [ihchiz/Awesome-Linux-Software-zh_CN](https://github.com/ihchiz/Awesome-Linux-Software-zh_CN) - 🐧 一个 Linux 上超赞的应用，软件，工具以及其它资源的集中地。
+- [wchichih/Awesome-Linux-Software-zh_CN](https://github.com/wchichih/Awesome-Linux-Software-zh_CN) - 🐧 一个 Linux 上超赞的应用，软件，工具以及其它资源的集中地。
 - [emilyemorehouse/cpython-notes](https://github.com/emilyemorehouse/cpython-notes) - 🐍📝Personal notes on resources, CPython, etc.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [dongjun111111/blog](https://github.com/dongjun111111/blog) - BLOG
