@@ -547,7 +547,7 @@
 - [hefuyicoder/ListenerMusicPlayer](https://github.com/hefuyicoder/ListenerMusicPlayer) - A Grace Material Design Music Player
 - [zgqq/mah](https://github.com/zgqq/mah) - An alternative to alfred written in java
 - [justinbaby/seckill-demo](https://github.com/justinbaby/seckill-demo) - 一个简单的SSM框架的商品秒杀系统:unicorn:
-- [daniulive/SmarterStreaming](https://github.com/daniulive/SmarterStreaming) - 业内为数不多致力于极致体验的超强全自研跨平台(windows/linux/android/iOS)流媒体内核，通过模块化自由组合，支持实时RTMP推流、RTSP推流、RTMP播放器、RTSP播放器、录像、多路流媒体转发、音视频导播、动态视频合成、音频混音、直播互动、内置轻量级RTSP服务等，比快更快，业界真正靠谱的超低延迟直播SDK(1秒内，低延迟模式下200~400ms)。
+- [daniulive/SmarterStreaming](https://github.com/daniulive/SmarterStreaming) - 业内为数不多致力于极致体验的超强全自研跨平台(windows/linux/android/iOS)流媒体内核，通过模块化自由组合，支持实时RTMP推流、RTSP推流、RTMP播放器、RTSP播放器、录像、多路流媒体转发、音视频导播、动态视频合成、音频混音、直播互动、内置轻量级RTSP服务等，比快更快，业界真正靠谱的超低延迟直播SDK(1秒内，低延迟模式下150~300ms)。
 - [atjiu/pybbs](https://github.com/atjiu/pybbs) - 更实用的Java开发的社区(论坛)，Better use of Java development community (forum)
 
 ## JavaScript 
