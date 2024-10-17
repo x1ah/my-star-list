@@ -1298,6 +1298,7 @@
 
 ## TypeScript 
 
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 - [ovnrain/netease-music-cloud-uploader](https://github.com/ovnrain/netease-music-cloud-uploader) - 解决 Mac 端网易云音乐无法上传到音乐云盘的问题
 - [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
