@@ -497,6 +497,7 @@
 - [gvanrossum/gvanrossum.github.io](https://github.com/gvanrossum/gvanrossum.github.io) - BDFL website
 - [HT524/500LineorLess_CN](https://github.com/HT524/500LineorLess_CN) - 500 line or less 中文翻译计划。
 - [lepture/github-cards](https://github.com/lepture/github-cards) - The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Show-Me-the-Code/python](https://github.com/Show-Me-the-Code/python) - Show Me the Code Python version.
 - [x1ah/x1ah.github.i](https://github.com/x1ah/x1ah.github.i) - 
 
@@ -798,7 +799,6 @@
 - [cgoldberg/conky-config](https://github.com/cgoldberg/conky-config) - cgoldberg's Conky Configuration
 - [zhiiwg/Awesome-Linux-Software-zh_CN](https://github.com/zhiiwg/Awesome-Linux-Software-zh_CN) - 🐧 一个 Linux 上超赞的应用，软件，工具以及其它资源的集中地。
 - [emilyemorehouse/cpython-notes](https://github.com/emilyemorehouse/cpython-notes) - 🐍📝Personal notes on resources, CPython, etc.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [dongjun111111/blog](https://github.com/dongjun111111/blog) - BLOG
 - [Yixiaohan/show-me-the-code](https://github.com/Yixiaohan/show-me-the-code) - Python 练习册，每天一个小程序
 - [github/gov-takedowns](https://github.com/github/gov-takedowns) - Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
