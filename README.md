@@ -335,6 +335,7 @@
 - [8treenet/freedom](https://github.com/8treenet/freedom) - Freedom是一个基于六边形架构的框架，可以支撑充血的领域模型范式。
 - [douyu/jupiter](https://github.com/douyu/jupiter) - Jupiter: Governance-oriented Microservice Framework.
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
+- [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch
 - [yanyiwu/gojieba](https://github.com/yanyiwu/gojieba) - "结巴"中文分词的Golang版本
 - [L04DB4L4NC3R/clean-architecture-sample](https://github.com/L04DB4L4NC3R/clean-architecture-sample) - Sample of the Clean Architecture, in Go
 - [kanocz/lcvpn](https://github.com/kanocz/lcvpn) - Decentralized VPN in golang
@@ -355,6 +356,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [olekukonko/tablewriter](https://github.com/olekukonko/tablewriter) - ASCII table in golang
 - [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
+- [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
@@ -513,6 +515,7 @@
 - [apache/rocketmq](https://github.com/apache/rocketmq) - Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [infinilabs/analysis-pinyin](https://github.com/infinilabs/analysis-pinyin) - 🛵 This Pinyin Analysis plugin is used to do conversion between Chinese characters and Pinyin.
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [jvolkman/intellij-protobuf-editor](https://github.com/jvolkman/intellij-protobuf-editor) - Protocol Buffers for IntelliJ-based IDEs
 - [corona-warn-app/cwa-server](https://github.com/corona-warn-app/cwa-server) - Backend implementation for the Apple/Google exposure notification API.
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
@@ -849,6 +852,7 @@
 - [eisenxp/macos-golink-wrapper](https://github.com/eisenxp/macos-golink-wrapper) - solution to "syscall.Mprotect panic: permission denied" on macOS Catalina 10.15.x
 - [msgpack/msgpack-python](https://github.com/msgpack/msgpack-python) - MessagePack serializer implementation for Python msgpack.org[Python]
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
+- [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Python client for Elasticsearch
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -1296,6 +1300,7 @@
 - [ovnrain/netease-music-cloud-uploader](https://github.com/ovnrain/netease-music-cloud-uploader) - 解决 Mac 端网易云音乐无法上传到音乐云盘的问题
 - [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
+- [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [Operational-Transformation/operational-transformation.github.com](https://github.com/Operational-Transformation/operational-transformation.github.com) - 
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
